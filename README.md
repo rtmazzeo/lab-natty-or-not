@@ -30,7 +30,7 @@ Este e-book apresenta uma abordagem abrangente sobre a vida e as realizações d
 4) Impacto e Legado: Discute o impacto duradouro das contribuições de Cajal para a ciência, medicina e psicologia, bem como seu legado como educador e inspirador de futuras gerações de cientistas.
 5) Aspectos Pessoais: Além de suas realizações científicas, o e-book também oferece insights sobre aspectos pessoais de Cajal, suas motivações, desafios enfrentados e o apoio de sua família em sua jornada científica.
 
-[LINK PARA O E-BOOK AQUI]()
+[LINK PARA O E-BOOK AQUI](https://github.com/rtmazzeo/lab-natty-or-not/blob/main/Entrela%C3%A7ando%20Arte%20e%20Ci%C3%AAncia.pdf)
 
 ## 💭 Reflexão
 
